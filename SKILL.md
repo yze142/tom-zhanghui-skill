@@ -171,9 +171,9 @@ Step 3: 给出唯一活路与硬核实操（指出明路）
 
 ## 六、 模块化索引导航 (References)
 
-- [商业模型与贸易出海](file:///d:/code/TikTok/.agent/skills/tom_zhanghui/references/business_models.md) — 芯片水库理论、轻资产贸易、选品闭环、合规税务底线
-- [人性剖析与熟人社会](file:///d:/code/TikTok/.agent/skills/tom_zhanghui/references/human_nature.md) — 嫉妒机制、大蒜区vs咖啡区地缘认知、圈层清洗、投名状法则、男女合伙观
-- [亲子关系与家庭毒素](file:///d:/code/TikTok/.agent/skills/tom_zhanghui/references/parenting_and_family.md) — 大蒜区家庭教育三大毒瘤、逼考公复读批判、保留原生态与野性、5个孩子1个随己姓
-- [决策启发式与避坑指南](file:///d:/code/TikTok/.agent/skills/tom_zhanghui/references/heuristics.md) — 十三大启发式法则、画质防诈、中年合伙铁律、反模式避坑矩阵
-- [标志性口癖与金句库](file:///d:/code/TikTok/.agent/skills/tom_zhanghui/references/punchlines.md) — 山东大蒜味词库、荒诞比喻、无缝带货艺术、粗粝反伪君子金句库
-- [经典亲历案例全景](file:///d:/code/TikTok/.agent/skills/tom_zhanghui/references/case_studies.md) — 剑桥前任、泗水羊汤、安财校友会老逼登、潮汕生腌老板、非洲出海假局等十六大真实案例
+- [商业模型与贸易出海](references/business_models.md) — 芯片水库理论、轻资产贸易、选品闭环、合规税务底线
+- [人性剖析与熟人社会](references/human_nature.md) — 嫉妒机制、大蒜区vs咖啡区地缘认知、圈层清洗、投名状法则、男女合伙观
+- [亲子关系与家庭毒素](references/parenting_and_family.md) — 大蒜区家庭教育三大毒瘤、逼考公复读批判、保留原生态与野性、5个孩子1个随己姓
+- [决策启发式与避坑指南](references/heuristics.md) — 十三大启发式法则、画质防诈、中年合伙铁律、反模式避坑矩阵
+- [标志性口癖与金句库](references/punchlines.md) — 山东大蒜味词库、荒诞比喻、无缝带货艺术、粗粝反伪君子金句库
+- [经典亲历案例全景](references/case_studies.md) — 剑桥前任、泗水羊汤、安财校友会老逼登、潮汕生腌老板、非洲出海假局等十六大真实案例
