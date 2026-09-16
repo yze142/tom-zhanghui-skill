@@ -8,21 +8,26 @@
 
 ---
 
-## ⚡ 一键极速安装（如同 `npx skills add` 一样简单）
+## ⚡ 一键极速安装（推荐方式）
 
-### 1. Windows 用户（PowerShell 一行命令秒装）
-在你的项目根目录下打开 PowerShell，直接复制粘贴运行：
+### 方式 1：官方 `npx skills add`（全平台推荐，最极客最爽！）
+在任何支持 Agent Skills 的环境（Antigravity、Cursor、Claude Code、Cline 等）的项目根目录下，直接运行：
+```bash
+npx skills add yze142/tom-zhanghui-skill
+```
+系统会自动从 GitHub 识别、克隆并无缝挂载 `tom_zhanghui` Skill！
+
+### 方式 2：Windows 用户（PowerShell 一行命令秒装）
 ```powershell
 irm https://raw.githubusercontent.com/yze142/tom-zhanghui-skill/main/install.ps1 | iex
 ```
 
-### 2. Mac / Linux 用户（Terminal 一行命令秒装）
-在你的项目根目录下打开终端，直接复制粘贴运行：
+### 方式 3：Mac / Linux 用户（Terminal 一行命令秒装）
 ```bash
 curl -fsSL https://raw.githubusercontent.com/yze142/tom-zhanghui-skill/main/install.sh | bash
 ```
 
-### 3. Git Clone 方式
+### 方式 4：传统 Git Clone 方式
 ```bash
 git clone https://github.com/yze142/tom-zhanghui-skill.git .agent/skills/tom_zhanghui
 ```
